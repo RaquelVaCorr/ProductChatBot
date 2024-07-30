@@ -1,10 +1,8 @@
-Here is a README description for your GitHub repository:
-
----
-
 # Bruno Child Offers Chatbot
 
-This repository contains the code for the Bruno Child Offers Chatbot, an AI-powered assistant built using Streamlit and LangChain. The chatbot interacts with users, answering their questions by leveraging OpenAI's GPT-3.5-turbo model and Pinecone for vector storage and retrieval. Before running the local 
+This repository contains the code for the Bruno Child Offers Chatbot, an AI-powered assistant built using Streamlit and LangChain. The chatbot interacts with users, answering their questions by leveraging OpenAI's GPT-3.5-turbo model and Pinecone for vector storage and retrieval.
+
+![Chatbot Screenshot](https://github.com/RaquelVaCorr/ProductChatBot/blob/main/src/images/screenshot_chatbot.png)
 
 ## Directory Structure
 
@@ -22,12 +20,6 @@ project/
 ```
 
 ---
-
-# Bruno Child Offers Chatbot
-
-This repository contains the code for the Bruno Child Offers Chatbot, an AI-powered assistant built using Streamlit and LangChain. The chatbot interacts with users, answering their questions by leveraging OpenAI's GPT-3.5-turbo model and Pinecone for vector storage and retrieval.
-
-![Chatbot Screenshot](https://github.com/RaquelVaCorr/ProductChatBot/blob/main/src/images/screenshot_chatbot.png)
 
 ## Features
 
