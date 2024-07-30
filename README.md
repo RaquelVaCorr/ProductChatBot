@@ -19,6 +19,7 @@ project/
 └── src/
     ├── chatbots/
         ├── streamlit_chatbot.pyCertainly! Here’s the updated README with the image included:
+```
 
 ---
 
